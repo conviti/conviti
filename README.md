@@ -1,6 +1,5 @@
 # 💫 About Me:
-**IT-Security & Systems Engineering**
-
+**IT-Security & Systems Engineering**  
 Focusing on system-level tooling, network infrastructure, and defensive/offensive security.
 
 **Core Experience & Current Scope**
