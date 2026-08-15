@@ -1,5 +1,15 @@
 # 💫 About Me:
-I’m currently working on developing custom cybersecurity tools in Python (e.g., Keystroke/BadUSB detection) and CTF write-ups.<br>I’m currently learning advanced web performance optimization for large datasets and offensive security tactics.<br>Ask me about Svelte, Python automation, network infrastructure (Proxmox/Cisco), or TryHackMe challenges.<br>How to reach me: conviti.dev@gmail.com
+**IT-Security & Systems Engineering**
+
+Focusing on system-level tooling, network infrastructure, and defensive/offensive security.
+
+**Core Experience & Current Scope**
+- **Security:** Developing custom Python defense mechanisms (e.g., Keystroke Dynamics / BadUSB mitigation) and documenting CTF write-ups.
+- **Infrastructure:** Managing virtualized server environments and network configurations (Proxmox, Linux, Cisco QoS).
+- **Software Engineering:** Architected high-performance applications handling 10,000+ data points; background in Java, Python, and C/C++.
+
+**Contact**
+Email: conviti.dev@gmail.com
 
 
 # 💻 Tech Stack:
